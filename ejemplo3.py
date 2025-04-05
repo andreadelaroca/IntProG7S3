@@ -1,5 +1,4 @@
 """Cálculo del salario neto de un empleado"""
-
 salarbrut=float(input("Ingrese el salario bruto del empleado: "))
 imprenta=salarbrut*0.1
 segurosoc=salarbrut*0.05
